@@ -22,3 +22,6 @@ Hardware:
 
 Status:
 Work in Progress
+
+here's a short demo video about it
+https://youtu.be/We4bpnQ5dyg?si=TfNDu-RSNAJaCL11
