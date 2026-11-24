@@ -25,3 +25,9 @@ Work in Progress
 
 here's a short demo video about it
 https://youtu.be/We4bpnQ5dyg?si=TfNDu-RSNAJaCL11
+
+
+
+update Nov 24th: Nong AI is semi completed
+https://youtu.be/Nreeta6z1-Y?si=V_uaJj8dl4XBZHWk
+video above shows voice chat compatibility and text compatibility
